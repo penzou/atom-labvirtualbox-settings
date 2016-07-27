@@ -1,0 +1,7 @@
+App load time: 2308ms
+(electron) app.getDataPath is deprecated. Use app.getPath instead.
+Vector smash protection is enabled.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xDA000D,name=PServiceWorkerManager::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+/bin/sh: 1: coffee: not found

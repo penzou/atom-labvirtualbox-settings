@@ -1,0 +1,20 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "ce527438-825f-4ee9-8b6a-0fe25055eb02"
+  core:
+    disabledPackages: [
+      "metrics"
+    ]
+    themes: [
+      "one-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    backUpBeforeSaving: true
+    fontFamily: "Ricty Diminished"
+    fontSize: 20
+  "exception-reporting":
+    userId: "0110db22-74e6-5b1d-349f-2f637d04dcc1"
+  welcome:
+    showOnStartup: false
