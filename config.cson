@@ -7,8 +7,8 @@
       "metrics"
     ]
     themes: [
-      "one-dark-ui"
-      "base16-tomorrow-dark-theme"
+      "one-dark-ui-slim"
+      "railscast-theme"
     ]
   editor:
     backUpBeforeSaving: true
